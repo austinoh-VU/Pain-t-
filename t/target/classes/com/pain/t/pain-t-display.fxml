@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.MenuItem?>
+
+<?import javafx.scene.control.Button?>
+
+<!--
+    file: pain-t-display.java
+    date: 8/26/2025
+    credit: Austin Oh
+    description: Graphics for paint Java program.
+-->
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.WritableImage?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.pain.t.PainTControls">
+
+    <!--Menubar-->
+    <top>
+        <MenuBar>
+            <Menu text="File">
+                <MenuItem text="Save" onAction="#onSaveClick"/>
+                <MenuItem text="Save As" onAction="#onSaveAsClick"/>
+                <MenuItem text="Load" onAction="#onLoadClick"/>
+            </Menu>
+            <Menu text="Example1">
+                <MenuItem text="test1" onAction="#onMenuClick"/>
+            </Menu>
+            <Menu text="Example2">
+                <MenuItem text="test2" onAction="#onToolClick"/>
+            </Menu>
+        </MenuBar>
+    </top>
+
+    <!--image-->
+    <center>
+        <ImageView fx:id="imageView">
+            <WritableImage fx:id="image" width="600" height="400"/>
+        </ImageView>
+    </center>
+
+    <!--Toolbar? might change my mind on this method tool selection-->
+<!--    <VBox>-->
+<!--        <Button text="tool1" onAction="#onToolClick"/>-->
+<!--        <Button text="tool2" onAction="#onToolClick"/>-->
+<!--        <Button text="tool3" onAction="#onToolClick"/>-->
+<!--    </VBox>-->
+    <bottom>
+        <Label fx:id="saveOutcome" alignment="BASELINE_RIGHT"/>
+    </bottom>
+</BorderPane>
