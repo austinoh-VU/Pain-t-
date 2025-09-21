@@ -1,0 +1,22 @@
+Austin's Pain(t) Version 0.0.1 -  8/28/2025
+
+New features:
+
+  * Saving images
+
+  * Loading images
+
+  * Amazing debug feature: button that does nothing
+
+  * Amazing debug feature: button that adds a 2x5 dot
+
+Known issues:
+
+  * Save failure/success alert not showing properly.
+
+Expected next sprint:
+
+  * basic pen tool
+
+Links:
+Github: https://github.com/austinoh-VU/Pain-t-

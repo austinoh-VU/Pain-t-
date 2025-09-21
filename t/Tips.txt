@@ -1,0 +1,33 @@
+Austin's Pain(t), Version 0.1.1 -  9/5/2025
+
+File:
+	Save- This saves all the changes you made to your image!
+	Save As- This lets you save over a different file, or make a new one so you don't replace your old image.
+	Load- Use this to load a png, jpg, or bmp image into the editor!
+
+Pencils:
+	Size- This is the size of your brush in pixels! Type in a value, or use the arrows.
+	Pencil- Your basic and reliable drawing tool. Click and drag to paint!
+	Eraser- Erases all color from the canvas where you use it.
+	
+
+Shapes:
+	Width- This top option lets you change the width of your shapes! Goes between 1 and 500. Type in a value, or use the arrows.
+	Height- This top option lets you change the height of your shapes! Goes between 1 and 500. Type in a value, or use the arrows.
+	Rectangle- A four sided shape of any height and width.
+	Circle- A rounde shape of any height and width. Even an ellipse!
+	Triangle- A three sided shape of any height and width.
+	???- A nice cup of joe.
+
+
+Color Tools:
+	Color Grabber- Just click what color on your canvas you'd like to paint with!
+
+Zoom:
+	Zoom in- Makes the picture bigger.
+	Zoom out- Makes the picture smaller.
+	
+
+Help:
+	Tips- This is where you are!
+	About- This is where you can find version information and creator links!

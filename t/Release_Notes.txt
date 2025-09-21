@@ -1,0 +1,82 @@
+Austin's Pain(t) Version 0.2.1 -  9/15/2025
+
+New features:
+
+  * color grabber
+  * Rectangle, Circle, and Triangle shapes. The former two can be squares and ellipses.
+  * Dashed outline option for shapes
+  * Pencil tool
+  * Eraser tool
+
+Known issues:
+
+  * Color picker custom color no longer breaks the program, but it still doesn't work.
+
+Expected next sprint:
+
+  * copy and paste.
+
+Links:
+Github: https://github.com/austinoh-VU/Pain-t-
+
+----------------------------------------------------------
+
+Austin's Pain(t) Version 0.1.1 -  9/5/2025
+
+New features:
+
+  * bmp file support
+
+  * zoom in/out
+
+  * Vertical and horizontal scroll bars for navigating large images
+
+  * Line with editable width
+
+  * Tips and about
+
+  * Color picker
+
+  * Alert when closing the program
+
+Known issues:
+
+  * Color picker custom color breaks the program. Premade pallet still works.
+
+  * Save failure/success alert not showing properly.
+
+  * No scroll bar for release notes
+
+Expected next sprint:
+
+  * basic pen tool
+
+  * More shapes
+
+Links:
+Github: https://github.com/austinoh-VU/Pain-t-
+
+----------------------------------------------------------
+
+Austin's Pain(t) Version 0.0.1 -  8/28/2025
+
+New features:
+
+  * Saving images
+
+  * Loading images
+
+  * Amazing debug feature: button that does nothing
+
+  * Amazing debug feature: button that adds a 2x5 dot
+
+Known issues:
+
+  * Save failure/success alert not showing properly.
+
+Expected next sprint:
+
+  * basic pen tool
+
+Links:
+Github: https://github.com/austinoh-VU/Pain-t-

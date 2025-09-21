@@ -1,0 +1,17 @@
+Austin's Pain(t), Version 0.1.1 -  9/5/2025
+
+File:
+	Save- This saves all the changes you made to your image!
+	Save As- This lets you save over a different file, or make a new one so you don't replace your old image.
+	Load- Use this to load a png, jpg, or bmp image into the editor!
+
+Shapes:
+	Size- This top option lets you change the size of your shapes! Goes between 1 and 50. Type in a value, or use the arrows.
+	Line- Draws a line across the screen! Size controls the thickness!
+
+Tool Color:
+	Color Picker- You can pick the color of your pen and shapes here!
+
+Help:
+	Tips- This is where you are!
+	About- This is where you can find version information and creator links!
